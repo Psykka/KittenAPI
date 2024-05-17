@@ -1,6 +1,9 @@
+
 # KittenAPI
 
 This is a simple API that returns a random kitten image. It is built using Go and the Gin framework.
+
+<img height="100px" src="https://kittenapi.onrender.com/img">
 
 ## Endpoints
 
